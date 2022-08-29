@@ -13,9 +13,18 @@ Here a two examples I like a lot:
 > sweetest one of those magical places  
 > wing like the dreams of your body waking  
 > the bird was saying anything i can t remember  
+<<<<<<< HEAD
+=======
+
+>>>>>>> 0a5be0bdea3873e841bf88002167099d743477ea
 ----
 
 > seems one life task   
 > fire is a thumb and  
 > the world hold me  
+<<<<<<< HEAD
 > curtains us going on one hoof over the fire  
+=======
+> curtains us going on one hoof over the fire  
+
+>>>>>>> 0a5be0bdea3873e841bf88002167099d743477ea
